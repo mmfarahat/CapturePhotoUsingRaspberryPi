@@ -1,0 +1,1 @@
+gphoto2 --capture-image-and-download --filename "/var/www/html/testcamera/aa.jpg"
